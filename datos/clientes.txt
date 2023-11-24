@@ -1,0 +1,9 @@
+juan pablo Garces;juanpg;12345;12345678;juanp@gmail.com;text() + ";";text() + ";";text() + ";";text() + ";";text() + ";";text() + ";"
+juan pablo Garces;juanpg;12345;12345678;juanp@gmail.com;text() + ";";text() + ";";text() + ";";text() + ";";text() + ";";text() + ";"
+Sofia Quintero;sofiaq;1234;123456789;sofia@gmail.com;hola;si;hola;si;hola;si
+l;l;l;l;l;l;l;l;l;l;l;l
+3;3;3;3;3;3;3;3;3;3;3;3
+
+juan pablo Garces;juanpg;12345;12345;12345678;juanp@gmail.com;text() + ";";text() + ";";text() + ";";text() + ";";text() + ";";text() + ";"
+juan pablo Garces;juanpg;12345;12345;12345678;juanp@gmail.com;text() + ";";text() + ";";text() + ";";text() + ";";text() + ";";text() + ";"
+>>>>>>> 8e129cff53de6231446064b162917196048f79bf
